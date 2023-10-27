@@ -5,4 +5,5 @@ Prosedur lengkap dapat dilihat pada file Prosedur-Ekstraksi-Tapak-Bangunan-MVT.i
 
 ## Tutorial dan Pedoman lengkap
 Installasi: video, pedoman
+
 Menjalankan program: video, pedoman
